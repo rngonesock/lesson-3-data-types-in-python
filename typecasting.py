@@ -12,3 +12,4 @@ x = float(x)
 print("After Typecasting")
 print(type(x))
 print(type(y))
+
